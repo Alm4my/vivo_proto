@@ -1,0 +1,93 @@
+{
+  "points_de_vente": [
+    {
+      "id": 0,
+      "nom_pdv": "Marcory I",
+      "nom_contact": "Marcel",
+      "prenom_contact": "Marcel",
+      "telephone_contact": [
+        "0102030406",
+        "0898323233"
+      ],
+      "email_contact": "marcel@vivo.energy",
+      "longitude": 5.303073,
+      "latitude": -3.986962,
+      "addresse": {
+        "rue": "Rue de Brazaville",
+        "quartier": "PMI",
+        "ville": "Abidjan",
+        "aide_localisation": "Pas loin de l'hopital general"
+      },
+      "qte_hule_en_L": 120,
+      "commentaire": "aucun",
+      "created_at": "2022-03-03T12:57:16.678Z"
+    },
+    {
+      "nom_pdv": "Marcory II",
+      "nom_contact": "Marcel",
+      "prenom_contact": "Marcel",
+      "telephone_contact": [
+        "0102030406",
+        "0898323233"
+      ],
+      "email_contact": "marcel@vivo.energy",
+      "longitude": 5.303073,
+      "latitude": -3.986962,
+      "addresse": {
+        "rue": "Rue de Brazaville",
+        "quartier": "PMI",
+        "ville": "Abidjan",
+        "aide_localisation": "Pas loin de l'hopital general"
+      },
+      "qte_hule_en_L": 120,
+      "commentaire": "aucun",
+      "created_at": "2022-03-03T12:57:16.678Z",
+      "id": 1
+    },
+    {
+      "nom_pdv": "Marcory II",
+      "nom_contact": "Marcel",
+      "prenom_contact": "Marcel",
+      "telephone_contact": [
+        "0102030406",
+        "0898323233"
+      ],
+      "email_contact": "marcel@vivo.energy",
+      "longitude": 5.303073,
+      "latitude": -3.986962,
+      "addresse": {
+        "rue": "Rue de Brazaville",
+        "quartier": "PMI",
+        "ville": "Abidjan",
+        "aide_localisation": "Pas loin de l'hopital general"
+      },
+      "qte_hule_en_L": 120,
+      "commentaire": "aucun",
+      "created_at": "2022-03-03T12:57:16.678Z",
+      "id": 2
+    },
+    {
+      "nom_pdv": "Marcory II",
+      "nom_contact": "Marcel",
+      "prenom_contact": "Marcel",
+      "telephone_contact": [
+        "0102030406",
+        "0898323233"
+      ],
+      "email_contact": "marcel@vivo.energy",
+      "longitude": 5.303073,
+      "latitude": -3.986962,
+      "addresse": {
+        "rue": "Rue de Brazaville",
+        "quartier": "PMI",
+        "ville": "Abidjan",
+        "aide_localisation": "Pas loin de l'hopital general",
+        "Test": "YEAH"
+      },
+      "qte_hule_en_L": 120,
+      "commentaire": "aucun",
+      "created_at": "2022-03-03T12:57:16.678Z",
+      "id": 3
+    }
+  ]
+}
